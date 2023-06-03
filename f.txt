@@ -1,0 +1,13 @@
+git init
+
+git remote add origin "repo url"
+
+git status
+
+git add -add                        - all r added to staging area
+
+git config global --user.name "<username>"
+
+git config global --user.email "<mail id>"
+
+git commit -m "comments"
